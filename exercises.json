@@ -1,0 +1,123 @@
+[
+ {
+ 	"exerciseName" : "Burpees",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 300
+ },
+ {
+ 	"exerciseName" : "Jumping Jacks",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 153
+ },
+ {
+ 	"exerciseName" : "Stair Climbing",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 276
+ },
+ {
+ 	"exerciseName" : "Tennis",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 363
+ },
+ {
+ 	"exerciseName" : "Hiking",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 318
+ },
+ {
+ 	"exerciseName" : "Running",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 500
+ },
+ {
+ 	"exerciseName" : "Mountain Climbers",
+ 	"exerciseTime" : 20,
+ 	"exerciseCalories" : 360
+ },
+ {
+ 	"exerciseName" : "Hill sprints",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 250
+ },
+ {
+ 	"exerciseName" : "Jumping Rope",
+ 	"exerciseTime" : 10,
+ 	"exerciseCalories" : 135
+ },
+ {
+ 	"exerciseName" : "Tabata Training",
+ 	"exerciseTime" : 10,
+ 	"exerciseCalories" : 550
+ },
+ {
+ 	"exerciseName" : "Supersets",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 225
+ },
+ {
+ 	"exerciseName" : "Rollerblading",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 342
+ },
+ {
+ 	"exerciseName" : "Rowing",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 275
+ },
+ {
+ 	"exerciseName" : "Swimming",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 350
+ },
+ {
+ 	"exerciseName" : "Plyometrics",
+ 	"exerciseTime" : 15,
+ 	"exerciseCalories" : 300
+ },
+ {
+ 	"exerciseName" : "Spinning",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 333
+ },
+ {
+ 	"exerciseName" : "Arobics",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 250
+ },
+ {
+ 	"exerciseName" : "Biking",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 275
+ },
+ {
+ 	"exerciseName" : "Dancing",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 210
+ },
+ {
+ 	"exerciseName" : "Football",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 235
+ },
+ {
+ 	"exerciseName" : "Pilates",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 175
+ },
+ {
+ 	"exerciseName" : "Soccer",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 350
+ },
+ {
+ 	"exerciseName" : "Walking",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 150
+ },
+ {
+ 	"exerciseName" : "Yoga",
+ 	"exerciseTime" : 30,
+ 	"exerciseCalories" : 120
+ }
+	
+]
